@@ -61,9 +61,10 @@ img {
 /* Globals */
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 180vh;
   color: var(--Stone-600);
   background-color: var(--Stone-100);
 }
@@ -108,6 +109,7 @@ td {
   padding: 2rem;
   background-color: var(--White);
   border-radius: 1rem;
+  margin-bottom: 2rem;
 }
 
 /* Header */
