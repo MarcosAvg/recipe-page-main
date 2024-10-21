@@ -64,7 +64,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 200vh;
   color: var(--Stone-600);
   background-color: var(--Stone-100);
 }
@@ -123,6 +122,10 @@ td {
   }
 
 @media (min-width: 45rem) {
+  .container{
+    margin-top: 5rem;
+  }
+
   .header__image > img {
     margin: auto;
     max-width: 100%;
