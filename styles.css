@@ -64,7 +64,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 180vh;
+  min-height: 200vh;
   color: var(--Stone-600);
   background-color: var(--Stone-100);
 }

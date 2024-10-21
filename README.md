@@ -19,11 +19,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](screenshots/desktop.png)
+![Mobile](screenshots/mobile.png)
 
 ### Links
 
-- Solution URL: [Responsive recipe panel using CSS and HTML](https://www.frontendmentor.io/solutions/responsive-recipe-panel-using-css-and-html-ZlgYgIlOF9
+- Solution URL: [Responsive recipe panel using CSS and HTML](https://www.frontendmentor.io/solutions/responsive-recipe-panel-using-css-and-html-ZlgYgIlOF9)
 - Live Site URL: [recipe-page-main](https://marcosavg.github.io/recipe-page-main/)
 
 ## My process
